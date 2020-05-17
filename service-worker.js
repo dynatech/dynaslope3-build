@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dynaslope3-build/precache-manifest.33e592c41ea46ebfc04e58da40411f50.js"
+  "/dynaslope3-build/precache-manifest.6778e1df59088e531e3d7a1ed35ba646.js"
 );
 
 self.addEventListener('message', (event) => {
