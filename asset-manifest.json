@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.802e7ccb.chunk.css",
+    "main.js": "/static/js/main.dd2f2572.chunk.js",
+    "main.js.map": "/static/js/main.dd2f2572.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.46c368ec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.46c368ec.js.map",
+    "static/css/2.bf68d549.chunk.css": "/static/css/2.bf68d549.chunk.css",
+    "static/js/2.c1722d35.chunk.js": "/static/js/2.c1722d35.chunk.js",
+    "static/js/2.c1722d35.chunk.js.map": "/static/js/2.c1722d35.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0237da89281e4b7dc21e1676577ddbbf.js": "/precache-manifest.0237da89281e4b7dc21e1676577ddbbf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bf68d549.chunk.css.map": "/static/css/2.bf68d549.chunk.css.map",
+    "static/css/main.802e7ccb.chunk.css.map": "/static/css/main.802e7ccb.chunk.css.map",
+    "static/media/login-bg-img.jpg": "/static/media/login-bg-img.6bf92800.jpg",
+    "static/media/phivolcs-dynaslope-logo.png": "/static/media/phivolcs-dynaslope-logo.de612ba1.png",
+    "static/media/phivolcs-letter-footer.png": "/static/media/phivolcs-letter-footer.fc7bb5bf.png",
+    "static/media/phivolcs-letter-head.png": "/static/media/phivolcs-letter-head.ff13773e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46c368ec.js",
+    "static/css/2.bf68d549.chunk.css",
+    "static/js/2.c1722d35.chunk.js",
+    "static/css/main.802e7ccb.chunk.css",
+    "static/js/main.dd2f2572.chunk.js"
+  ]
+}
