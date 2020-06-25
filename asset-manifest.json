@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d52d26b.chunk.css",
+    "main.js": "/static/js/main.57f993b9.chunk.js",
+    "main.js.map": "/static/js/main.57f993b9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7dbf1ffa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7dbf1ffa.js.map",
+    "static/css/2.4ebc16b4.chunk.css": "/static/css/2.4ebc16b4.chunk.css",
+    "static/js/2.6444fc63.chunk.js": "/static/js/2.6444fc63.chunk.js",
+    "static/js/2.6444fc63.chunk.js.map": "/static/js/2.6444fc63.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0804023ea92373fcf18f54824b87af1b.js": "/precache-manifest.0804023ea92373fcf18f54824b87af1b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4ebc16b4.chunk.css.map": "/static/css/2.4ebc16b4.chunk.css.map",
+    "static/css/main.7d52d26b.chunk.css.map": "/static/css/main.7d52d26b.chunk.css.map",
+    "static/js/2.6444fc63.chunk.js.LICENSE.txt": "/static/js/2.6444fc63.chunk.js.LICENSE.txt",
+    "static/media/login-bg-img.jpg": "/static/media/login-bg-img.6bf92800.jpg",
+    "static/media/phivolcs-dynaslope-logo.png": "/static/media/phivolcs-dynaslope-logo.de612ba1.png",
+    "static/media/phivolcs-letter-footer.png": "/static/media/phivolcs-letter-footer.fc7bb5bf.png",
+    "static/media/phivolcs-letter-head.png": "/static/media/phivolcs-letter-head.ff13773e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dbf1ffa.js",
+    "static/css/2.4ebc16b4.chunk.css",
+    "static/js/2.6444fc63.chunk.js",
+    "static/css/main.7d52d26b.chunk.css",
+    "static/js/main.57f993b9.chunk.js"
+  ]
+}
