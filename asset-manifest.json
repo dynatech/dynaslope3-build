@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a57204dd.chunk.css",
+    "main.js": "/static/js/main.b9417f2d.chunk.js",
+    "main.js.map": "/static/js/main.b9417f2d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7dbf1ffa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7dbf1ffa.js.map",
+    "static/css/2.8344305e.chunk.css": "/static/css/2.8344305e.chunk.css",
+    "static/js/2.13dfa2d8.chunk.js": "/static/js/2.13dfa2d8.chunk.js",
+    "static/js/2.13dfa2d8.chunk.js.map": "/static/js/2.13dfa2d8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.73fbf8d0f4e63851b7682e9386793b5a.js": "/precache-manifest.73fbf8d0f4e63851b7682e9386793b5a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8344305e.chunk.css.map": "/static/css/2.8344305e.chunk.css.map",
+    "static/css/main.a57204dd.chunk.css.map": "/static/css/main.a57204dd.chunk.css.map",
+    "static/js/2.13dfa2d8.chunk.js.LICENSE.txt": "/static/js/2.13dfa2d8.chunk.js.LICENSE.txt",
+    "static/media/dyna_wall.jpg": "/static/media/dyna_wall.d9a91c1f.jpg",
+    "static/media/login-bg-img.jpg": "/static/media/login-bg-img.6bf92800.jpg",
+    "static/media/phivolcs-dynaslope-logo.png": "/static/media/phivolcs-dynaslope-logo.de612ba1.png",
+    "static/media/phivolcs-letter-footer.png": "/static/media/phivolcs-letter-footer.131de212.png",
+    "static/media/phivolcs-letter-head.png": "/static/media/phivolcs-letter-head.990f0dc9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dbf1ffa.js",
+    "static/css/2.8344305e.chunk.css",
+    "static/js/2.13dfa2d8.chunk.js",
+    "static/css/main.a57204dd.chunk.css",
+    "static/js/main.b9417f2d.chunk.js"
+  ]
+}
